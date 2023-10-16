@@ -61,3 +61,25 @@ thead{
 .tr{
     background-color: rgb(157, 239, 253);
 }
+
+.img{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    background-image: url("../html-css-booleaner/img\ 2/monitor.jpg");
+}
+
+.img2{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    background-image: url("../html-css-booleaner/img\ 2/graph.jpg");
+}
