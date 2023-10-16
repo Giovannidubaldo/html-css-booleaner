@@ -26,7 +26,7 @@
     font-size: 10px;
 }
 
-.photos{
+.image{
     margin: 10px;
 }
 
@@ -44,4 +44,20 @@
     font-size: 20px;
     margin-top: 20px;
     margin-left: 20px;
+}
+
+table{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 100%;
+
+}
+
+thead{
+    color: white;
+    background-color: rgb(7, 108, 171);
+}
+
+.tr{
+    background-color: rgb(157, 239, 253);
 }
