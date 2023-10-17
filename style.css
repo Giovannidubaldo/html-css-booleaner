@@ -4,32 +4,48 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
 .sfondo{
     background-color: rgb(0, 136, 255);
     background-image: url("../html-css-booleaner/img\ 2/pattern.png");
-    padding-top: 70px;   
+    background-size: 30%; 
+    height: 100px; 
 }
 
 .logo{
     height: 50px;
+    margin-top: 40px;
 }
 
+/* MAIN */
 .container{
     margin: 10px;
 }
 
+/* section title */
+h1{
+    font-size: 50px;
+}
+
 .sottotitolo{
     color: rgb(137, 133, 133);
+    font-size: 18px;
+}
+
+#booleaner{
+    color: rgb(27, 137, 215);
 }
 
 #data{
     font-size: 10px;
 }
 
+/* section image */
 .image{
     margin: 10px;
 }
 
+/* section text */
 .text{
     font-size: 20px;
     margin-top: 20px;
@@ -40,17 +56,18 @@
     background-color: yellow;
 }
 
-.list{
+ul{
     font-size: 20px;
     margin-top: 20px;
     margin-left: 20px;
 }
 
+/* section table */
 table{
     margin-top: 20px;
     margin-left: 10px;
-    width: 100%;
-
+    border-spacing: 0;
+    text-align: left;
 }
 
 thead{
@@ -58,10 +75,15 @@ thead{
     background-color: rgb(7, 108, 171);
 }
 
+.th3{
+    width: 50%;
+}
+
 .tr{
     background-color: rgb(157, 239, 253);
 }
 
+/* FOOTER */
 .img{
     margin-left: 10px;
     margin-top: 10px;
